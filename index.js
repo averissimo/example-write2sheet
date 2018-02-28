@@ -2,8 +2,8 @@ const moment = require('moment');
 const scrapper = require('crypto-market-scrapper');
 const GoogleSheetWrite = require('write2sheet');
 
-// Id can be retrieved from link: https://docs.google.com/spreadsheets/d/<here is the id>/edit#gid=0
-const sheet = new GoogleSheetWrite('<some id from google sheets>');
+// Id can be retrieved from link: https://docs.google.com/spreadsheets/d/<here is the .id>/edit#gid=0
+const sheet = new GoogleSheetWrite('1PxQIe5kwzmRTVvHQoeiY-Ze6N0h99kXC2u4Iw6UsB4k');
 
 // Update date
 const mydate = moment().format('YYYY/MM/DD HH:mm:ss');

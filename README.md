@@ -7,9 +7,11 @@ Run it:
 ```
 git clone https://github.com/averissimo/example-write2sheet
 cd example-write2sheet
+npm install # install dependencies
+
 # change id in index.js
-npm start
-# it will prompt for google authorization (using default client_secret.json)
+
+npm start # it will prompt for google authorization (using default client_secret.json)
 # and done!! check the sheet
 ```
 
