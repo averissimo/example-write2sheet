@@ -1,0 +1,31 @@
+{
+  "name": "example-write2sheet",
+  "version": "1.0.0",
+  "description": "Example app for averissimo/write2sheet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averissimo/example-write2sheet.git"
+  },
+  "keywords": [
+    "write2sheet",
+    "google",
+    "sheets"
+  ],
+  "author": "André Veríssimo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/averissimo/example-write2sheet/issues"
+  },
+  "homepage": "https://github.com/averissimo/example-write2sheet#readme",
+  "dependencies": {
+    "crypto-market-scrapper": "^1.0.1",
+    "moment": "^2.20.1",
+    "write2sheet": "^1.0.2",
+    "xo": "^0.20.3"
+  }
+}
