@@ -13,6 +13,8 @@ npm start
 # and done!! check the sheet
 ```
 
+The result should look like [this example sheet](https://docs.google.com/spreadsheets/d/1PxQIe5kwzmRTVvHQoeiY-Ze6N0h99kXC2u4Iw6UsB4k/edit#gid=0)
+
 That's all for a simple example.
 
 ## Donating
